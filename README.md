@@ -22,8 +22,8 @@ Este projeto foi desenvolvido com foco em boas práticas de lógica de programa�
 * **Experiência do Utilizador (UX):** Mensagens claras no terminal, formatação de resultados e validação de entradas.
 
 ## 📂 Como Executar
-1. Certifica-te de que tens o **Python 3** instalado.
+1. verifique se o **Python** está instalado.
 2. Faz o download do arquivo `calculadora.py`.
 3. Executa o comando no terminal:
-   ```bash
+   
    python calculadora.py
