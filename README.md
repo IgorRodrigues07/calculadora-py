@@ -25,5 +25,6 @@ Este projeto foi desenvolvido com foco em boas práticas de lógica de programa�
 1. verifique se o **Python** está instalado.
 2. Faz o download do arquivo `calculadora.py`.
 3. Executa o comando no terminal:
-   autor: **https://www.linkedin.com/in/igorrodrigues07/**
-   python calculadora.py
+
+autor: **https://www.linkedin.com/in/igorrodrigues07/**
+   
